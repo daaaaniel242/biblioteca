@@ -5,4 +5,4 @@ A continuación se muestra la imagen del esquema empleado para la creación del 
 
 
 
-![image alt](<img width="612" height="622" alt="image" src="https://github.com/user-attachments/assets/a2a3dc97-ca83-4aa0-aaff-c575d175ee73" />)
+![image alt]((https://github.com/daaaaniel242/biblioteca/blob/main/DiagramaClases/fotodiagramabiblioteca.png?raw=true))
